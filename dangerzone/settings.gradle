@@ -1,0 +1,4 @@
+include ':dangerzone:product-service'
+include ':dangerzone:product-composite-service'
+include ':dangerzone:review-service'
+include ':dangerzone:recommendation-service'
